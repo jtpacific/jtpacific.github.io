@@ -25,8 +25,8 @@ author:
   name             : ""
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Austin, TX"
-  employer         : "UT Austin"
+  location         : # "Austin, TX"
+  employer         : # "UT Austin"
   uri              : # URL
   email            : "jerrytang@utexas.edu" 
 
