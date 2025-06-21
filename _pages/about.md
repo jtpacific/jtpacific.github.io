@@ -20,6 +20,7 @@ My research focuses on modeling and decoding brain responses during language pro
 [A natural language fMRI dataset for voxelwise encoding models](https://www.nature.com/articles/s41597-023-02437-z)\
 Amanda LeBel, Lauren Wagner, Shailee Jain, Aneesh Adhikari-Desai, Bhavin Gupta, Allyson Morgenthal, **Jerry Tang**, Lixiang Xu, Alexander G Huth\
 *Scientific Data 2023*
+[code](https://github.com/HuthLab/deep-fMRI-dataset)
 
 [Brain encoding models based on multimodal transformers can transfer across language and vision](https://proceedings.neurips.cc/paper_files/paper/2023/file/5ebbbac62b968254093023f1c95015d3-Paper-Conference.pdf)\
 **Jerry Tang**, Meng Du, Vy A Vo, Vasudev Lal, Alexander G Huth\
